@@ -2,11 +2,11 @@
 // FOR SERVER USE ONLY CAN BE REMOVED BY USING CRM
 export const sideBarData = [
    { title: "Acquisition", items: ["Content", "SEO", "Sales", "Social", "Ads"] },
-    { title: "Conversion", items: ["Copywriting", "LandingPage", "A/B Testing", "Optimization"] },
+    { title: "Conversion", items: ["Copywriting", "LandingPage", "Optimization"] },
     { title: "More", items: ["Retention", "Brand", "Referral", "Creative", "Influencers"] },
     { title: "Newsletter", items: ["newLetter", "Campaigns", "Subscriber Growth"] },
     { title: "Customer Support", items: ["Chatbots", "Help Center", "Feedback"] },
-    { title: "Analytics", items: ["Data Analysis", "Reports", "KPI Tracking", "Dashboard"] },
+    { title: "Analytics", items: ["Reports","Dashboard"] },
 ]
 
 // FOR SERVER USE ONLY CAN BE REMOVED BY USING CRM
